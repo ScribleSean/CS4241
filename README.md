@@ -1,2 +1,2 @@
 # CS4241
-smelly
+coursework for CS4241 in A23
