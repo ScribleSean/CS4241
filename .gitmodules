@@ -1,0 +1,6 @@
+[submodule "a1"]
+	path = a1
+	url = https://github.com/ScribleSean/a1-SeanArackal
+[submodule "a2"]
+	path = a2
+	url = https://github.com/ScribleSean/a2-SeanArackal
