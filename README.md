@@ -12,5 +12,5 @@ git submodule update --init --recursive
 
 Adding Submodules
 ~~~ git
-git submodule add  https://github.com/ScribleSean/a3-SeanArackal a3
+git submodule add  https://github.com/ScribleSean/a4-sean-arackal a4
 ~~~
