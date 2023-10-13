@@ -10,3 +10,6 @@
 [submodule "a4"]
 	path = a4
 	url = https://github.com/ScribleSean/a4-sean-arackal
+[submodule "final-project"]
+	path = final-project
+	url = https://github.com/MacCode7110/FantasyMusicTourBuilder/
